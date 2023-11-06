@@ -1,5 +1,5 @@
-/home/jivey/Devel/arduino_attend_rfid/arduino/build/sketch/arduino.ino.cpp.o: \
- /home/jivey/Devel/arduino_attend_rfid/arduino/build/sketch/arduino.ino.cpp \
+/home/jivey/Devel/arduino_attend_rfid/arduino/build/libraries/MFRC522/MFRC522.cpp.o: \
+ /home/jivey/Arduino/libraries/MFRC522/src/MFRC522.cpp \
  /home/jivey/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/Arduino.h \
  /home/jivey/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/binary.h \
  /home/jivey/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/WCharacter.h \

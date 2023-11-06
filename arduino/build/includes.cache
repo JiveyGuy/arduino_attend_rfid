@@ -11,6 +11,31 @@
   },
   {
     "Sourcefile": "/home/jivey/Devel/arduino_attend_rfid/arduino/build/sketch/arduino.ino.cpp",
+    "Include": "MFRC522.h",
+    "Includepath": "/home/jivey/Arduino/libraries/MFRC522/src"
+  },
+  {
+    "Sourcefile": "/home/jivey/Devel/arduino_attend_rfid/arduino/build/sketch/arduino.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "/home/jivey/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries/SPI/src"
+  },
+  {
+    "Sourcefile": "/home/jivey/Devel/arduino_attend_rfid/arduino/build/sketch/arduino.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/jivey/Arduino/libraries/MFRC522/src/MFRC522.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/jivey/Arduino/libraries/MFRC522/src/MFRC522Extended.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/jivey/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries/SPI/src/SPI.cpp",
     "Include": "",
     "Includepath": null
   }
